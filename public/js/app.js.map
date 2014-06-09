@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../../resources/ts/hoge.ts"],"names":["Hoge","Hoge.Greeting","Hoge.Greeting.constructor","Hoge.Greeting.say"],"mappings":"AAAA,IAAO,IAAI;AAUV,CAVD,UAAO,IAAI;IAEPA;QAAAC;QAMAC,CAACA;AAAAD,QAJGA,yBAAAA,UAAIA,OAAeA;YACfE,OAAOA,OAAOA;QAClBA,CAACA;QAELF,gBAACA;IAADA,CAACA,IAAAD;IANDA,yBAMCA;AAELA,CAACA,uBAAA"}
