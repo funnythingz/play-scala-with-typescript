@@ -6,7 +6,12 @@ import play.api.mvc._
 object Application extends Controller {
 
   def index = Action {
-    Ok(views.html.index.render("hoge"))
+    val hoge = new Hoge()
+    Ok(views.html.index.render(hoge))
   }
 
+}
+
+class Hoge {
+  val title: String = "HogeTitle"
 }
