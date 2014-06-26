@@ -8,3 +8,23 @@ use
 - Grunt
 - Bower
 - Chest
+
+## command
+
+run
+
+```
+% ./activator
+```
+
+build TypeScript
+
+```
+% grunt
+```
+
+watch build TypeScript
+
+```
+% grunt watch
+```
